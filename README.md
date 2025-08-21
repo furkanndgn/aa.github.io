@@ -1,16 +1,17 @@
 # Privacy Policy for ByeBuddy
 
-**Last updated: August 2025**
+**Last updated: August 21, 2025**
 
 ## Overview
-ByeBuddy is a free app created by **Furkan Dogan**. This privacy policy explains how the app handles your information.
+ByeBuddy is a free app created by **Furkan Dogan**.  
+This privacy policy explains how your information is handled when using the app.
 
 ## Information Collection
-**ByeBuddy does not collect, store, or share any personal information.**
+**ByeBuddy does not collect, use, store, or share any personal information outside of your device.**
 
 - ✅ All data stays on your device  
 - ✅ No analytics or tracking tools  
-- ✅ No location services  
+- ✅ No location data collected  
 - ✅ No user accounts required  
 - ✅ No advertisements  
 - ✅ No data sent to any servers  
@@ -18,44 +19,41 @@ ByeBuddy is a free app created by **Furkan Dogan**. This privacy policy explains
 ## Contacts Permission
 ByeBuddy requires access to your **contacts** to provide its core functionality:
 
-- **Read** contacts to display them in the app  
-- **Modify** contacts when you choose to delete them  
-- **Add** contacts when you recover deleted ones  
+- **View** contacts to display them in the app  
+- **Restore** contacts when you recover deleted ones  
 
-All of these operations happen **only on your device** using Apple’s built‑in Contacts framework.  
-No contact information is ever uploaded or transmitted anywhere.
+All of these operations occur **only on your device** through Apple’s Contacts framework.  
+Your contact information is never uploaded or transmitted outside the app.
 
 ## Data Storage
 - All app data is stored locally on your device.  
-- Deleted contacts are temporarily stored on‑device to enable the recovery feature.  
-- The app does not use any cloud backup or sync services.  
-- If you uninstall the app, all associated data is permanently removed.  
+- Deleted contacts are kept securely on-device for up to 30 days (by default) so you can restore them if desired.  
+- This duration can be changed by the user in the app’s settings.  
+- Uninstalling the app permanently deletes all associated data.  
 
 ## Third‑Party Services
-ByeBuddy does not use any third‑party analytics, tracking, or advertising services.
+ByeBuddy does not use third‑party analytics, ads, or tracking services.  
 
-For development purposes, the app uses:  
-- **SwiftLint** (for code quality)  
-- **SnapKit** (for user interface layout)  
+The app may include open‑source libraries (for example, for layout or code quality), but these are used locally and do **not** collect any personal data.
 
-These libraries are used locally in the app and **do not collect or transmit any personal data**.
+## Children’s Privacy
+ByeBuddy does not knowingly collect information from children under 13.  
+Since no data leaves your device, the app is safe for all age groups. However, ByeBuddy is not designed specifically for children.  
 
-## Children's Privacy
-ByeBuddy does not knowingly collect any information from anyone, including children under 13.  
-Since the app does not collect or transmit any data, it is safe for all age groups.  
-However, ByeBuddy is **not designed specifically for children**.
+If you are a parent or guardian and believe your child has provided data, please contact us so we can ensure it is removed.
 
 ## Security
-Your data remains protected under iOS’s built‑in security framework.  
-All contact operations are handled through Apple’s native Contacts API, which requires user permission and ensures your data is kept safe and private on your device.
+Your data is protected by iOS’s built‑in security framework.  
+All contact operations require your explicit permission and are securely handled by Apple’s native Contacts API.
 
 ## Changes to This Policy
-Any updates to this privacy policy will be posted on this page.
+Any future updates will be published on this page.
 
 ## Contact
-If you have any questions about this privacy policy, please contact:  
+If you have any questions, please contact:  
 📧 **furkndognn@gmail.com**
 
 ---
 
-**In short:** ByeBuddy respects your privacy. Your contacts stay on your device. We don’t see, store, or share any of your data.
+**In short:** ByeBuddy never collects or sends your data anywhere.  
+Everything stays private on your device.
